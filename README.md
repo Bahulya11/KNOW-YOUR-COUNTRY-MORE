@@ -9,7 +9,7 @@ The objective of this project is to disseminate knowledge to individuals of all 
 
 ![country](https://github.com/user-attachments/assets/610ee6db-c052-4e49-9236-fff4d67bb8c2)
 
-![c1](https://github.com/user-attachments/assets/609bc655-3a8c-48fb-93de-f4fa41da0944)   ![capita](https://github.com/user-attachments/assets/239895a8-5a39-404c-a457-5a0ca30a7462)
+![c1](https://github.com/user-attachments/assets/609bc655-3a8c-48fb-93de-f4fa41da0944)         ![capita](https://github.com/user-attachments/assets/239895a8-5a39-404c-a457-5a0ca30a7462)
 
 
 ![a1](https://github.com/user-attachments/assets/f91796cb-a424-43ab-a6ab-2bd68d172934)   ![animal](https://github.com/user-attachments/assets/1d0ab613-cc27-42c3-b221-95f523cb19c1)
